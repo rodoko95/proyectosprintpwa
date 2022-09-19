@@ -1,1 +1,7 @@
 # proyectosprintpwa
+
+Integrantes:
+Rodrigo Ernesto Arce
+Alejandro Cisak
+Junior Valle Cubas
+Nacho Cicero
